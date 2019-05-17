@@ -6,7 +6,7 @@
 ### python 3
 
 ## Video Demo
-**[Click Here](https://drive.google.com/file/d/13U_bDedSSWpv50RFDHmI9cr_9gPOz3di/view?usp=sharing)**
+**[Click Here](https://www.youtube.com/watch?v=PxsRertcUdA&feature=youtu.be&fbclid=IwAR3V_XQcqbV3kcMJ862T5D4iZGSzKH8fq0J9Lz41xkcYUmxn89XjQk6XEuc)**
 
 ## Documentation
-**[Click Here](https://github.com/EslamAlaaZaki/Camera-Dialer-/blob/master/Camera%20Dialer/Camera%20Dialer.pdf)**
+**[Click Here](https://github.com/EslamAlaaZaki/Connect-4-game/blob/master/DocumenationAI.pdf)**
